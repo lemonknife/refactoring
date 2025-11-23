@@ -1,3 +1,4 @@
+2c61f7e refactor(Task 2.2): extract a new getColumeCredits method
 15c10bc refactor(Task 2.1): cleanup
 80644a2 feat(Task 1.2): update log.txt
 06bff9e refactor(Task 1.1): CheckStyle issues

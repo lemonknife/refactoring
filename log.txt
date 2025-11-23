@@ -1,2 +1,3 @@
+80644a2 feat(Task 1.2): update log.txt
 06bff9e refactor(Task 1.1): CheckStyle issues
 faf5712 Initial commit

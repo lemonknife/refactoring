@@ -1,3 +1,4 @@
+b1999df refactor(Task 2.4): extract two methods
 e7ea891 refactor(Task 2.3): extract a new usd method
 2c61f7e refactor(Task 2.2): extract a new getColumeCredits method
 15c10bc refactor(Task 2.1): cleanup
